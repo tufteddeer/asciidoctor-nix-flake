@@ -1,0 +1,3 @@
+= Asciidoctor Nix flake
+
+A Nix flake to build documents using https://asciidoctor.org/[Asciidoctor]
